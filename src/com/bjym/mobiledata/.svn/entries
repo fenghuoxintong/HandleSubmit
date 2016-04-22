@@ -1,0 +1,80 @@
+10
+
+dir
+305
+https://120.27.111.79/svn/DATA/DATA_%20HANDLIING/%E6%A0%B8%E5%BF%83%E5%B9%B3%E5%8F%B0/HandleSubmit/src/com/bjym/mobiledata
+https://120.27.111.79/svn/DATA
+
+
+
+2016-01-08T08:10:40.293903Z
+35
+chenlj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0126beaf-1c61-3047-9aff-af0e28674490
+
+busbean
+dir
+
+Test.java
+file
+
+
+
+delete
+2016-04-11T07:59:14.173247Z
+efe2357456b24b25f50c9926fd01db41
+2016-01-08T08:10:40.293903Z
+35
+chenlj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+58
+
+control
+dir
+
+utils
+dir
+
+bean
+dir
+
+db
+dir
+
+redis
+dir
+

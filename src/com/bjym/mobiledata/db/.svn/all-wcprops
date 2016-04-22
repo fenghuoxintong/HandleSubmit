@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DATA/!svn/ver/35/DATA_%20HANDLIING/%E6%A0%B8%E5%BF%83%E5%B9%B3%E5%8F%B0/HandleSubmit/src/com/bjym/mobiledata/db
+END
+PackageRelationDaoImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/DATA/!svn/ver/35/DATA_%20HANDLIING/%E6%A0%B8%E5%BF%83%E5%B9%B3%E5%8F%B0/HandleSubmit/src/com/bjym/mobiledata/db/PackageRelationDaoImp.java
+END
+PhoneDaoimp.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/DATA/!svn/ver/35/DATA_%20HANDLIING/%E6%A0%B8%E5%BF%83%E5%B9%B3%E5%8F%B0/HandleSubmit/src/com/bjym/mobiledata/db/PhoneDaoimp.java
+END
+C3P0.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/DATA/!svn/ver/35/DATA_%20HANDLIING/%E6%A0%B8%E5%BF%83%E5%B9%B3%E5%8F%B0/HandleSubmit/src/com/bjym/mobiledata/db/C3P0.java
+END
+LogSendDaoImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/DATA/!svn/ver/35/DATA_%20HANDLIING/%E6%A0%B8%E5%BF%83%E5%B9%B3%E5%8F%B0/HandleSubmit/src/com/bjym/mobiledata/db/LogSendDaoImp.java
+END
+DBUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/DATA/!svn/ver/35/DATA_%20HANDLIING/%E6%A0%B8%E5%BF%83%E5%B9%B3%E5%8F%B0/HandleSubmit/src/com/bjym/mobiledata/db/DBUtils.java
+END
+PackageProductDaoImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/DATA/!svn/ver/35/DATA_%20HANDLIING/%E6%A0%B8%E5%BF%83%E5%B9%B3%E5%8F%B0/HandleSubmit/src/com/bjym/mobiledata/db/PackageProductDaoImp.java
+END
+RegUserDaoimp.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/DATA/!svn/ver/35/DATA_%20HANDLIING/%E6%A0%B8%E5%BF%83%E5%B9%B3%E5%8F%B0/HandleSubmit/src/com/bjym/mobiledata/db/RegUserDaoimp.java
+END

@@ -1,0 +1,15 @@
+logic_redis_max_active=1000
+logic_redis_max_idle=50
+logic_redis_max_wait=1000
+logic_redis_ip=121.41.22.139
+logic_redis_port=6379
+logic_redis_read_time_out=100000
+logic_redis_exception_sleep_time=30000
+
+gateway_redis_max_active=1000
+gateway_redis_max_idle=50
+gateway_redis_max_wait=1000
+gateway_redis_ip=121.41.22.139
+gateway_redis_port=6379
+gateway_redis_read_time_out=100000
+gateway_exception_sleep_time=30000

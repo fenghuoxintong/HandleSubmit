@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" 
+	xmlns="http://java.sun.com/xml/ns/javaee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+  <servlet>
+    <servlet-name>HandleSubmitServlet</servlet-name>
+    <servlet-class>com.bjym.mobiledata.control.HandleSubmitServlet</servlet-class>
+  </servlet>
+
+  <servlet>
+    <servlet-name>HandleQueryServlet</servlet-name>
+    <servlet-class>com.bjym.mobiledata.control.HandleQueryServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>StatusReportServlet</servlet-name>
+    <servlet-class>com.bjym.mobiledata.control.StatusReportServlet</servlet-class>
+  </servlet>
+
+
+
+  <servlet-mapping>
+    <servlet-name>HandleSubmitServlet</servlet-name>
+    <url-pattern>/submit</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HandleQueryServlet</servlet-name>
+    <url-pattern>/querybalance</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HandleQueryServlet</servlet-name>
+    <url-pattern>/querystatus</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HandleQueryServlet</servlet-name>
+    <url-pattern>/test</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>StatusReportServlet</servlet-name>
+    <url-pattern>/statusreport</url-pattern>
+  </servlet-mapping>
+
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>
